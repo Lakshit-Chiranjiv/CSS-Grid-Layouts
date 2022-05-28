@@ -9,6 +9,9 @@ body {
   .grid{
       display: grid;
   }
+  .inline-grid{
+      display: inline-grid;
+  }
 
   .grid-item {
     font-size: 1.5rem;
