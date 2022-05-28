@@ -41,6 +41,10 @@ body {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr 1fr;
   }
+  .grid-temp-col-5{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  }
 
   .grid-item {
     font-size: 1.5rem;
