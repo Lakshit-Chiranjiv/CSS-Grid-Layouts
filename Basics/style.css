@@ -5,6 +5,16 @@ body {
     text-align: center;
   }
 
+  hr{
+      margin: 40px auto;
+      width: 50%;
+      color: black;
+  }
+
+  .heading{
+      font-size: 90px;
+  }
+
   .container {
     border: 4px solid black;
   }
