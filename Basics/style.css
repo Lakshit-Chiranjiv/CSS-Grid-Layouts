@@ -32,6 +32,10 @@ body {
     display: grid;
     grid-template-columns: 300px 300px 300px;
   }
+  .grid-temp-col-3{
+    display: grid;
+    grid-template-columns: repeat(3,300px);
+  }
 
   .grid-item {
     font-size: 1.5rem;
