@@ -24,6 +24,10 @@ body {
   .inline-grid{
       display: inline-grid;
   }
+  .grid-temp-col-1{
+    display: grid;
+    grid-template-columns: 100px 300px 150px;
+  }
 
   .grid-item {
     font-size: 1.5rem;
