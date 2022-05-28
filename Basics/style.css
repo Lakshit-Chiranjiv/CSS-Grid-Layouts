@@ -28,6 +28,10 @@ body {
     display: grid;
     grid-template-columns: 100px 300px 150px;
   }
+  .grid-temp-col-2{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+  }
 
   .grid-item {
     font-size: 1.5rem;
