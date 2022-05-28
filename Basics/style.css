@@ -4,39 +4,38 @@ body {
     font-family: sans-serif;
   }
   .container {
-    border: 6px solid black;
+    border: 4px solid black;
     display: grid;
   }
   .grid-item {
-    color: white;
     font-size: 1.5rem;
     padding: 1rem;
     text-align: center;
   }
   .item-1 {
-    background-color: #b4bf35;
+    background-color: #f2fd75;
   }
   .item-2 {
-    background-color: #b95f21;
+    background-color: #fea66a;
   }
   .item-3 {
-    background-color: #1c4c56;
+    background-color: #b5eef9;
   }
   .item-4 {
-    background-color: #cfb276;
+    background-color: #effebc;
   }
   .item-5 {
-    background-color: #6b0803;
+    background-color: #ffb2ae;
   }
   .item-6 {
-    background-color: #cfb276;
+    background-color: #c1e7ff;
   }
   .item-7 {
-    background-color: #b95f21;
+    background-color: #f4bcff;
   }
   .item-8 {
-    background-color: #01243a;
+    background-color: #ffc4dc;
   }
   .item-9 {
-    background-color: #aad041;
+    background-color: #b3ffb5;
   }
