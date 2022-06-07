@@ -70,6 +70,11 @@ body {
     grid-template-rows: repeat(3,1fr);
   }
 
+  .grid-temp-1{
+    display: grid;
+    grid-template: repeat(3,1fr) / repeat(3,minmax(200px,1fr));
+    /* rows/columns */
+  }
 
   .grid-item {
     font-size: 1.5rem;
