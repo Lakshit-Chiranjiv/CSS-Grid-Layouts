@@ -19,6 +19,10 @@ header{
     border-bottom: 2px solid #c8d3ca;
 }
 
+article{
+    padding: 16px;
+}
+
 img{
     width: 100%;
     border: 5px solid white;
