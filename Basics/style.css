@@ -132,6 +132,11 @@ body {
     align-items: end;
   }
 
+  .align-item-4{
+    display: grid;
+    align-items: center;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
