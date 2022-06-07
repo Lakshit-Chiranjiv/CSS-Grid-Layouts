@@ -107,6 +107,11 @@ body {
     justify-items: start;
   }
 
+  .justify-item-3{
+    display: grid;
+    justify-items: end;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
