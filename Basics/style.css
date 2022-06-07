@@ -97,6 +97,11 @@ body {
     /* row column */
   }
 
+  .justify-item-1{
+    display: grid;
+    justify-items: stretch;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
