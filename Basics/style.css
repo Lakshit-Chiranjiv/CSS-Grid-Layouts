@@ -227,6 +227,12 @@ body {
     align-content: space-evenly;
   }
 
+  .place-content-1{
+    display: grid;
+    place-content: space-evenly;
+  }
+
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
