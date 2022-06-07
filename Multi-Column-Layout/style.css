@@ -56,3 +56,13 @@ article.sub-selected{
 article h3,article p{
     margin: 10px;
 }
+
+@media screen and (max-width: 980px) {
+    .main-grid{
+        grid-template-columns: repeat(2,1fr);
+    }
+    article.selected{
+        grid-column: span 2;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
