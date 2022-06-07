@@ -60,6 +60,10 @@ body {
     grid-template-rows: repeat(3,100px);
   }
   
+  .grid-temp-row-3{
+    display: grid;
+    grid-template-rows: repeat(2,100px) 200px;
+  }
 
 
   .grid-item {
