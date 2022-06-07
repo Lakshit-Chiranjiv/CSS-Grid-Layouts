@@ -50,6 +50,11 @@ body {
     grid-template-columns: repeat(3,minmax(200px,1fr));
   }
 
+  .grid-temp-row-1{
+    display: grid;
+    grid-template-rows: 100px 200px 300px;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
