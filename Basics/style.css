@@ -102,6 +102,11 @@ body {
     justify-items: stretch;
   }
 
+  .justify-item-2{
+    display: grid;
+    justify-items: start;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
