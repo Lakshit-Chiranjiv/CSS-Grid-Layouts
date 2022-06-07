@@ -45,6 +45,7 @@ article.selected{
     background-color: white;
     border-radius: 10px;
     padding: 16px;
+    align-items: center;
 }
 
 article.sub-selected{
