@@ -122,9 +122,14 @@ body {
     align-items: stretch;
   }
 
-  .align-item-1{
+  .align-item-2{
     display: grid;
     align-items: start;
+  }
+
+  .align-item-3{
+    display: grid;
+    align-items: end;
   }
 
   .grid-item {
