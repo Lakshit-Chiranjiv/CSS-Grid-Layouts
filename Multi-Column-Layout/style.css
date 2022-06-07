@@ -19,6 +19,12 @@ header{
     border-bottom: 2px solid #c8d3ca;
 }
 
+img{
+    width: 100%;
+    border: 5px solid white;
+    border-radius: 5px;
+}
+
 .main-grid{
     display: grid;
     grid-template-columns: repeat(2,1fr);
