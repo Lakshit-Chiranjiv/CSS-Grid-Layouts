@@ -185,6 +185,11 @@ body {
     justify-content: space-around;
   }
 
+  .justify-content-6{
+    display: grid;
+    justify-content: space-evenly;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
