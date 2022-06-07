@@ -232,6 +232,11 @@ body {
     place-content: space-evenly;
   }
 
+  .place-content-2{
+    display: grid;
+    place-content: start end;
+    /* align justify  */
+  }
 
   .grid-item {
     font-size: 1.5rem;
