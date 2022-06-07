@@ -52,3 +52,7 @@ article.sub-selected{
     background-color: #9dfdbc;
     border-radius: 10px;
 }
+
+article h3,article p{
+    margin: 10px;
+}
