@@ -154,6 +154,12 @@ body {
     /* align justify */
   }
 
+  .grid-temp-2{
+    display: grid;
+    grid-template: repeat(3,200px) / repeat(3,200px);
+    /* rows/columns */
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
