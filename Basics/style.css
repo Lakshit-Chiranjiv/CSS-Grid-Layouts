@@ -200,6 +200,11 @@ body {
     justify-content: end;
   }
 
+  .align-content-3{
+    display: grid;
+    justify-content: center;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
