@@ -18,3 +18,9 @@ header{
     margin: 40px auto;
     border-bottom: 2px solid #c8d3ca;
 }
+
+.main-grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 60px;
+}
