@@ -148,6 +148,12 @@ body {
     place-items: center;
   }
 
+  .place-item-2{
+    display: grid;
+    place-items: start end;
+    /* align justify */
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
