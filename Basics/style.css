@@ -64,6 +64,11 @@ body {
     display: grid;
     grid-template-rows: repeat(2,100px) 200px;
   }
+  
+  .grid-temp-row-4{
+    display: grid;
+    grid-template-rows: repeat(3,1fr);
+  }
 
 
   .grid-item {
