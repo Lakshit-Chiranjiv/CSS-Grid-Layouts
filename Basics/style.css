@@ -25,6 +25,13 @@ body {
     margin-bottom: 16px;
     height: 500px;
   }
+
+  .container-h2 {
+    border: 4px solid black;
+    margin-bottom: 16px;
+    height: 800px;
+  }
+
   .grid{
       display: grid;
   }
