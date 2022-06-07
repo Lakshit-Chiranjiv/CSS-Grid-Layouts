@@ -81,6 +81,11 @@ body {
     column-gap: 20px;
   }
 
+  .row-gap{
+    display: grid;
+    row-gap: 20px;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
