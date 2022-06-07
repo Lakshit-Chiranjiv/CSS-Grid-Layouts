@@ -160,6 +160,11 @@ body {
     /* rows/columns */
   }
 
+  .justify-content-1{
+    display: grid;
+    justify-content: start;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
