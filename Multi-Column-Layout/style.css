@@ -21,6 +21,7 @@ header{
 
 article{
     padding: 16px;
+    cursor: pointer;
 }
 
 img{
@@ -40,7 +41,12 @@ article.selected{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     gap: 60px;
-    /* background-color: #9dfdbc; */
+    cursor: auto;
     background-color: white;
+    border-radius: 10px;
+}
+
+article.sub-selected{
+    background-color: #9dfdbc;
     border-radius: 10px;
 }
