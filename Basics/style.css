@@ -175,6 +175,11 @@ body {
     justify-content: center;
   }
 
+  .justify-content-4{
+    display: grid;
+    justify-content: space-between;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
