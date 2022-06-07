@@ -40,4 +40,7 @@ article.selected{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     gap: 60px;
+    /* background-color: #9dfdbc; */
+    background-color: white;
+    border-radius: 10px;
 }
