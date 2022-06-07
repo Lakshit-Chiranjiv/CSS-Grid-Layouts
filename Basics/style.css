@@ -180,6 +180,11 @@ body {
     justify-content: space-between;
   }
 
+  .justify-content-5{
+    display: grid;
+    justify-content: space-around;
+  }
+
   .grid-item {
     font-size: 1.5rem;
     padding: 1rem;
