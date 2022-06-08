@@ -28,3 +28,12 @@ nav{
 nav li{
     cursor: pointer;
 }
+
+article{
+    padding: 30px;
+}
+
+article h2{
+    font-size: 3.5rem;
+    max-width: 800px;
+}
