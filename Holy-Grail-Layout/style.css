@@ -27,6 +27,7 @@ nav{
 
 nav li{
     cursor: pointer;
+    margin-bottom: 15px;
 }
 
 article{
