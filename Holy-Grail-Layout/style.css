@@ -48,3 +48,8 @@ article p{
     line-height: 2em;
     margin-top: 30px;
 }
+
+aside{
+    padding: 30px;
+    border-left: 1px solid #d2d2d2;
+}
