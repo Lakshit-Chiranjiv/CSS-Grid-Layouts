@@ -4,3 +4,8 @@ body{
     font-family: "Poppins";
     background-color: aliceblue;
 }
+
+header{
+    background-color: white;
+    padding: 20px;
+}
