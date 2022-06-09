@@ -32,3 +32,8 @@ nav h1 div:first-child{
 nav h1 div:last-child{
     font-weight: 400;
 }
+
+nav a{
+    color: #818181;
+    text-decoration: none;
+}
