@@ -82,3 +82,23 @@ main .long-row{
         grid-template-columns: repeat(2,1fr);
     }
 }
+
+@media screen and (max-width: 620px) {
+    main{
+        grid-template-columns: 1fr;
+        max-width: 400px;
+        margin: 20px auto;
+    }
+    main .long-row{
+        grid-column: span 1;
+    }
+
+    nav{
+        grid-template-columns: repeat(4,1fr);
+    }
+
+    nav h1{
+        grid-column: 1/span 4;
+        grid-row: 1;
+    }
+}
