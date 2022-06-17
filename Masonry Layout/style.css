@@ -66,3 +66,7 @@ main .short{
 main .tall{
     grid-row: span 2;
 }
+
+main .long-row{
+    grid-column: span 2;
+}
