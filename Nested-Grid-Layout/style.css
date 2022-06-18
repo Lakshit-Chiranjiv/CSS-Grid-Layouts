@@ -59,3 +59,14 @@ img{
     color: #313131;
     padding: 30px 60px;
 }
+
+@media screen and (max-width: 1000px) {
+    main{
+        grid-template-columns: 1fr 1fr;
+    }
+    .panel.photos{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr;
+        grid-column: span 2;
+    }
+}
