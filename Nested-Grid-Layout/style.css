@@ -11,6 +11,7 @@ main{
 
 img{
     width: 100%;
+    height: 100%;
 }
 
 .panel{
@@ -43,4 +44,8 @@ img{
 .panel.welcome h1{
     font-size: 3rem;
     color: white;
+}
+
+.panel.about {
+    grid-template-rows: 3fr 1fr;
 }
