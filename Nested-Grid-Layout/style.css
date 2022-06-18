@@ -81,3 +81,12 @@ img{
         grid-column: span 2;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .panel.about{
+        grid-template-columns: 1fr;
+    }
+    .panel.photos{
+        grid-template-columns: 1fr;
+    }
+}
