@@ -23,3 +23,9 @@ img{
     background-color: #453426;
     padding: 30px 60px;
 }
+
+.panel.welcome nav a{
+    color: #d9d9d9;
+    margin-right: 30px;
+    text-decoration: none;
+}
