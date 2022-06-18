@@ -70,3 +70,14 @@ img{
         grid-column: span 2;
     }
 }
+
+@media screen and (max-width: 780px) {
+    main{
+        grid-template-columns: 1fr;
+    }
+    .panel.about{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr;
+        grid-column: span 2;
+    }
+}
