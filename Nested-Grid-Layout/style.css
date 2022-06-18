@@ -49,3 +49,7 @@ img{
 .panel.about {
     grid-template-rows: 3fr 1fr;
 }
+
+.panel.photos{
+    grid-template-rows: 1fr 3fr;
+}
