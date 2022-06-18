@@ -34,3 +34,8 @@ img{
     color: #d9d9d9;
     line-height: 2rem;
 }
+
+.panel.welcome footer{
+    align-self: end;
+    font-size: 14px;
+}
