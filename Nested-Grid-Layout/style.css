@@ -17,3 +17,9 @@ img{
     display: grid;
     grid-template-columns: 1fr;
 }
+
+.panel.welcome{
+    grid-auto-rows: 1fr;
+    background-color: #453426;
+    padding: 30px 60px;
+}
