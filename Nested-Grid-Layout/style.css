@@ -53,3 +53,9 @@ img{
 .panel.photos{
     grid-template-rows: 1fr 3fr;
 }
+
+.text{
+    background-color: #d1d1d1;
+    color: #313131;
+    padding: 30px 60px;
+}
