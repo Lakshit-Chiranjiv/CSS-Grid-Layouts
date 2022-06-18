@@ -39,3 +39,8 @@ img{
     align-self: end;
     font-size: 14px;
 }
+
+.panel.welcome h1{
+    font-size: 3rem;
+    color: white;
+}
