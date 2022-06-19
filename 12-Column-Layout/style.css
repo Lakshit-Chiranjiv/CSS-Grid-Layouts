@@ -44,5 +44,5 @@ main img{
 }
 
 main .welcome{
-    grid-column: span 8;
+    grid-column: 6/span 7;
 }
