@@ -81,3 +81,19 @@ main .card{
         margin-left: 8px;
     }
 }
+
+@media screen and (max-width: 520px) {
+    header h1{
+        grid-column: span 12;
+        justify-self: center;
+    }
+    
+    header nav{
+        grid-column: span 12;
+        justify-self: center;
+    }
+
+    header nav a{
+        margin-left: 12px;
+    }
+}
