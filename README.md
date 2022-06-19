@@ -14,7 +14,7 @@ Website Link :
 
 ### Holy-Grail-Layout
 
-<img src="./assets/proj1.jpg" alt="proj2" style="width: 500px; border-radius: 6px;"></img>
+<img src="./assets/proj2.jpg" alt="proj2" style="width: 500px; border-radius: 6px;"></img>
 
 Website Link : 
 
